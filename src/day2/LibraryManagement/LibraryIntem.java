@@ -57,7 +57,7 @@ class Magzine extends LibraryIntem implements Borrowable{
 		   this.author = author;
 
 		   
-	   }
+	   }	
 	   public void displayDetails() {
 		  System.out.println("Author of this Magzine :"+author);
 	  }

@@ -1,4 +1,4 @@
-package day1;
+package day_1;
 
 public class polymorphismMain {
     public static void main(String[] args) {

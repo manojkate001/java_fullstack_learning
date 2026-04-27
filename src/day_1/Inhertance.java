@@ -1,4 +1,4 @@
-package day1;
+package day_1;
 
 public class Inhertance {
          String name = "Manoj";
