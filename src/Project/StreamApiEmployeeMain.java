@@ -15,6 +15,8 @@ public class StreamApiEmployeeMain {
         employees.add(new Employee("Sneha", "Finance", 65000, 26));
         employees.add(new Employee("Arjun", "Engineering", 90000, 32));
         employees.add(new Employee("Divya", "HR", 52000, 24));
+        
+ 
 
         employees.stream()
                 .max(Comparator.comparing(Employee::salary))
